@@ -1,13 +1,13 @@
 <template>
-  <div>
-    <nuxt/>
+  <div class="bg-image h-screen font-mono tracking-wide">
+    <nuxt />
+    <p class="text-primary text-right pr-2 text-xs">Powered by <a href="http://www.nuxtjs.org"> Nuxt.js </a></p>
   </div>
 </template>
 
 <style>
 html
 {
-  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
@@ -16,6 +16,9 @@ html
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
 }
+
+a { color: inherit; text-decoration: none;} 
+
 *, *:before, *:after
 {
   box-sizing: border-box;
@@ -50,4 +53,10 @@ html
   color: #fff;
   background-color: #35495e;
 }
+.bg-image {
+  background-position: center;
+  background-image: url("../assets/backgroundGray.jpg");
+  background-size: cover;
+ }
+
 </style>

@@ -2,12 +2,25 @@ module.exports = {
   /*
   ** Build configuration
   */
-  build: {},
+  build: {
+    postcss: {
+      // Add plugin names as key and arguments as value
+      // Install them before as dependencies with npm or yarn
+      plugins: {
+        tailwindcss: ('./tailwind.js')
+      }
+    }
+  },
   /*
   ** Headers
   ** Common headers are already provided by @nuxtjs/pwa preset
   */
   head: {},
+
+  css: [
+    '~/css/main.css'
+  ],
+
   /*
   ** Customize the progress-bar color
   */
@@ -23,5 +36,9 @@ module.exports = {
   */
   modules: [
     '@nuxtjs/pwa'
+  ],
+
+  plugins: [
+    { src: '~/plugins/font-awesome' }
   ]
 }
