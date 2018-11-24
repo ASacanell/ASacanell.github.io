@@ -1,7 +1,7 @@
 <template>
   <div class="bg-image h-screen font-mono tracking-wide">
     <nuxt />
-    <p class="text-primary text-right pr-2 text-xs">Powered by <a href="http://www.nuxtjs.org"> Nuxt.js </a></p>
+    <p class="fixed pin-b pin-r text-primary text-right pr-2 text-xs"><strong>Powered by <a href="http://www.nuxtjs.org"> Nuxt.js</a></strong></p>
   </div>
 </template>
 
