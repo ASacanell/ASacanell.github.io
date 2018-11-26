@@ -35,15 +35,15 @@
       <h1 class="text-6xl font-thin text-primary">4</h1>
       <h3>YEARS OF <br> EXPERIENCE</h3>
       <section class="pt-16 text-5xl text-primary">
-        <a href="http://www.github.com/ASacanell">
+        <a href="http://www.github.com/ASacanell" title="Github">
           <i class="fab fa-github hover:text-white"></i>
         </a>
 
-        <a href="https://www.linkedin.com/in/alejandrosacanell/">
+        <a href="https://www.linkedin.com/in/alejandrosacanell/" title="LinkedIn">
           <i class="fab fa-linkedin-in hover:text-white"></i>
         </a>
 
-        <a href="http://www.twitter.com/ASacanellN">
+        <a href="http://www.twitter.com/ASacanellN" title="Twitter">
           <i class="fab fa-twitter hover:text-white"></i>
         </a>
       </section>

@@ -56,7 +56,7 @@ a { color: inherit; text-decoration: none;}
 .bg-image {
   background-position: center;
   background-attachment: fixed;
-  background-image: url("../assets/backgroundGray.min.jpg");
+  background-image: url("../assets/backgroundGray.3888x2592.jpg");
   background-size: cover;
  }
 
