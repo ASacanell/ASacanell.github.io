@@ -36,15 +36,15 @@
       <h3>YEARS OF <br> EXPERIENCE</h3>
       <section class="pt-16 text-5xl text-primary">
         <a href="http://www.github.com/ASacanell">
-          <font-awesome-icon :icon="['fab', 'github']" class="hover:text-white" />
+          <i class="fab fa-github hover:text-white"></i>
         </a>
 
         <a href="https://www.linkedin.com/in/alejandrosacanell/">
-          <font-awesome-icon :icon="['fab', 'linkedin']" class="hover:text-white" />
+          <i class="fab fa-linkedin-in hover:text-white"></i>
         </a>
 
         <a href="http://www.twitter.com/ASacanellN">
-          <font-awesome-icon :icon="['fab', 'twitter']" class="hover:text-white" />
+          <i class="fab fa-twitter hover:text-white"></i>
         </a>
       </section>
     </div>
