@@ -5,10 +5,6 @@
   "author": "Alejandro Sacanell",
   "private": true,
   "dependencies": {
-    "@fortawesome/fontawesome": "^1.1.8",
-    "@fortawesome/fontawesome-free-brands": "^5.0.13",
-    "@fortawesome/fontawesome-svg-core": "^1.2.8",
-    "@fortawesome/vue-fontawesome": "^0.1.2",
     "@nuxtjs/pwa": "latest",
     "nuxt": "latest"
   },
