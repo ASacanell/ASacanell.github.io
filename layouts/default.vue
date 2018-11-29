@@ -30,6 +30,7 @@ a { color: inherit; text-decoration: none;}
   background-attachment: fixed;
   background-image: url("../assets/backgroundGray.3888x2592.jpg");
   background-size: cover;
+  position:static
 }
 
 </style>

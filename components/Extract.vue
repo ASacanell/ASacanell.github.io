@@ -1,6 +1,6 @@
 <template>
-  <div class="w-full md:h-80 md:flex text-white shadow-md">
-    <div class="w-full md:w-1/2 bg-primary p-12">
+  <div class="w-full md:h-80 md:flex text-white md:shadow-md">
+    <div class="w-full md:w-1/2 bg-primary p-12 shadow-md md:shadow-none">
       <h3 class="text-xl">I've worked on</h3>
       <p class="mt-6">
         <a href="http://www.docomodigital.com"><strong>Docomo Digital</strong></a>
@@ -31,7 +31,7 @@
         Laravel, AngularJS, MongoDB
       </p>
     </div>
-    <div class="w-full md:w-1/2 bg-tertiary mt-6 md:mt-0 pt-10 pb-10 pl-10 pr-10">
+    <div class="w-full md:w-1/2 bg-tertiary mt-6 md:mt-0 pt-10 pb-10 pl-10 pr-10 shadow-md md:shadow-none">
       <div class="flex md:block">
         <h1 class="text-6xl font-thin text-primary">4</h1>
         <h3 class="pt-4 pl-4 md:p-0">YEARS OF <br> EXPERIENCE</h3>
