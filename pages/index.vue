@@ -2,9 +2,9 @@
   <div>
     <div class="h-4 bg-primary w-full" />
     <div class="pt-10 pb-10 flex justify-center">
-      <div class="w-1/2">
+      <div class="w-4/5 md:w-1/2">
         <intro />
-        <extract class="mt-10" />
+        <extract class="mt-6 md:mt-10" />
       </div>
     </div>
   </div>
