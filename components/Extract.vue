@@ -1,6 +1,6 @@
 <template>
   <div class="w-full md:h-80 md:flex text-white md:shadow-md">
-    <div class="w-full md:w-1/2 bg-primary p-12 shadow-md md:shadow-none">
+    <div class="w-full md:w-1/2 bg-primary p-4 md:p-12 shadow-md md:shadow-none">
       <h3 class="text-xl">I've worked on</h3>
       <p class="mt-6">
         <a href="http://www.docomodigital.com"><strong>Docomo Digital</strong></a>
@@ -31,12 +31,12 @@
         Laravel, AngularJS, MongoDB
       </p>
     </div>
-    <div class="w-full md:w-1/2 bg-tertiary mt-6 md:mt-0 pt-10 pb-10 pl-10 pr-10 shadow-md md:shadow-none">
+    <div class="w-full md:w-1/2 bg-tertiary mt-6 md:mt-0 p-4 md:p-10 shadow-md md:shadow-none">
       <div class="flex md:block">
         <h1 class="text-6xl font-thin text-primary">4</h1>
         <h3 class="pt-4 pl-4 md:p-0">YEARS OF <br> EXPERIENCE</h3>
       </div>
-      <section class="pt-6 md:pt-16 text-5xl text-primary">
+      <section class="pt-6 md:pt-16 text-5xl text-primary flex justify-around md:justify-between">
         <a href="http://www.github.com/ASacanell" title="Github">
           <i class="fab fa-github hover:text-white"></i>
         </a>

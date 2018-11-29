@@ -1,7 +1,9 @@
 <template>
-  <div class="bg-image h-screen font-mono tracking-wide">
-    <nuxt />
-    <p class="md:fixed md:pin-b md:pin-r text-primary text-right pr-2 text-xs"><strong>Powered by <a href="http://www.nuxtjs.org"> Nuxt.js</a></strong></p>
+  <div class="bg-image h-screen font-mono tracking-wide overflow-hidden">
+    <div class="h-screen overflow-auto">
+      <nuxt />
+      <p class="md:fixed md:pin-b md:pin-r text-primary text-right pr-2 text-xs"><strong>Powered by <a href="http://www.nuxtjs.org"> Nuxt.js</a></strong></p>
+    </div>
   </div>
 </template>
 
