@@ -4,36 +4,36 @@
       <h3 class="text-xl">I've worked on</h3>
       <p class="mt-6">
         <a href="http://www.docomodigital.com"><strong>Docomo Digital</strong></a>
-        
+
       </p>
       <p class="pl-6 pt-1 pb-1 text-xs">
         Laravel, VueJS, MySQL
       </p>
       <p class="mt-2">
         <a href="http://www.finizens.com"><strong>Finizens</strong></a>
-        
+
       </p>
       <p class="pl-6 pt-1 pb-1 text-xs">
         Symfony, MySQL
       </p>
       <p class="mt-2">
         <a href="http://www.grupovaughan.com"><strong>Vaughan</strong></a>
-        
+
       </p>
       <p class="pl-6 pt-1 pb-1 text-xs">
         Laravel, VueJS, MySQL
       </p>
       <p class="mt-2">
         <a href="http://www.mejoratuciudad.org"><strong>MejoraTuCiudad</strong></a>
-        
+
       </p>
       <p class="pl-6 pt-1 pb-1 text-xs">
-        Laravel, AngularJS, MongoDB
+        Symfony, AngularJS, MongoDB
       </p>
     </div>
     <div class="w-full md:w-1/2 bg-tertiary mt-6 md:mt-0 p-4 md:p-10 shadow-md md:shadow-none">
       <div class="flex md:block">
-        <h1 class="text-6xl font-thin text-primary">4</h1>
+        <h1 class="text-6xl font-thin text-primary">6</h1>
         <h3 class="pt-4 pl-4 md:p-0">YEARS OF <br> EXPERIENCE</h3>
       </div>
       <section class="pt-6 md:pt-16 text-5xl text-primary flex justify-around md:justify-between">

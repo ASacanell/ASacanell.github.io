@@ -10,10 +10,10 @@
         </strong>
       </p>
       <p class="text-sm pt-6 md:pt-8">
-        I'm a software engineer, currently working at Docomo Digital. 
+        I'm a software engineer, currently working at HomeDoctor.
       </p>
       <p class="text-sm pt-4">
-        I'm a tech lover who tries to learn something new
+        I'm a tech <span class="text-red font-semibold">lover</span> who tries to learn something <span class="text-primary font-semibold">new</span>
         everyday. I am mainly working with PHP (<em>Laravel</em>) and Javascript (<em>VueJS</em>) at the moment.
       </p>
     </div>
